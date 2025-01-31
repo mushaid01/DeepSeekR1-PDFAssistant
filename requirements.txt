@@ -1,0 +1,5 @@
+langchain
+chromadb
+gradio
+langchain-community
+ollama
