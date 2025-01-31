@@ -30,7 +30,7 @@ To run this project, ensure you have the following installed:
 
 3. Launch the application:
    ```bash
-   python app.py
+   python ui.py
    ```
 
 4. Access the application in your web browser at `http://127.0.0.1:7860/`.
